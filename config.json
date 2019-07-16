@@ -1,0 +1,4 @@
+{
+	"okta_url": "https://<my okta org>.okta.com",
+	"okta_api_token": "Okta API Token"
+}
