@@ -1,0 +1,4 @@
+ firstName,lastName,email,hashedPassword,password,alg
+"ps_test","tester1","ps_tester1@mailinator.com","h5mt8n5u6j4Q5lDS7RSF7ZZPat9Fe82","X!$passw0rd1","BCRYPT"
+"ps_test","tester2","ps_tester2@mailinator.com","h5mt8n5u6j4Q5lDS7RSF7ZZPat9Fe82","X!$passw0rd1","BCRYPT"
+"ps_test","tester3","ps_tester3@mailinator.com","h5mt8n5u6j4Q5lDS7RSF7ZZPat9Fe82","X!$passw0rd1","BCRYPT" 
